@@ -1,5 +1,3 @@
-
-
 export default function About(){
     return(
         <>
@@ -20,19 +18,19 @@ export default function About(){
                     &nbsp; &nbsp; &nbsp; &nbsp;Welcome to Smoking Barrels Craft Coffee, where passion meets craftsmanship. Established in 2015, Smoking Barrels started as a cozy coffee shop in the heart of our city, founded by a group of friends united by their love for exceptional coffee. From the very beginning, our mission was clear: to bring the finest coffee experience to our community.
                     </p>
                     <p>
-                    &nbsp; &nbsp; &nbsp; &nbsp;In our early days, we focused on creating a warm, inviting atmosphere where people could enjoy meticulously brewed coffee. Our dedication to quality quickly earned us a loyal following, and it wasn't long before we began exploring the art of coffee roasting. Driven by a desire to control every aspect of the coffee-making process, we invested in our first roaster and started experimenting with different beans and roast profiles.    
+                    &nbsp; &nbsp; &nbsp; &nbsp;In our early days, we focused on creating a warm, inviting atmosphere where people could enjoy meticulously brewed coffee. Our dedication to quality quickly earned us a loyal following, and it wasn&apos;t long before we began exploring the art of coffee roasting. Driven by a desire to control every aspect of the coffee-making process, we invested in our first roaster and started experimenting with different beans and roast profiles.    
                     </p>
                     <p>
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;By 2017, our small backroom roasting operation had grown, and we decided to expand into a full-fledged roastery. This pivotal moment allowed us to deepen our commitment to sourcing premium beans from around the world. We established direct relationships with farmers, ensuring that our beans were not only of the highest quality but also ethically sourced.    
+                    &nbsp; &nbsp; &nbsp; &nbsp;By 2017, our small backroom roasting operation had grown, and we decided to expand into a full-fledged roastery. This pivotal moment allowed us to deepen our commitment to sourcing premium beans from around the world. We established direct relationships with farmers, ensuring that our beans were not only of the highest quality but also ethically sourced.    
                     </p>
                     <p>
                     &nbsp; &nbsp; &nbsp;Our roasting process is a blend of science and art, aimed at highlighting the unique flavors and characteristics of each bean. Every roast is carefully crafted to bring out the best in each batch, ensuring a consistent and delightful coffee experience for our customers.    
                     </p>
                     <p>
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Today, Smoking Barrels stands as a testament to our journey from a humble coffee shop to a renowned roastery. Our unwavering commitment to excellence and innovation continues to drive us as we explore new ways to delight our customers. Whether you're visiting our shop for a cozy cup of coffee or brewing our beans at home, we're honored to be a part of your coffee journey.
+                    &nbsp; &nbsp; &nbsp; &nbsp;Today, Smoking Barrels stands as a testament to our journey from a humble coffee shop to a renowned roastery. Our unwavering commitment to excellence and innovation continues to drive us as we explore new ways to delight our customers. Whether you&apos;re visiting our shop for a cozy cup of coffee or brewing our beans at home, we&apos;re honored to be a part of your coffee journey.
                     </p>
                     <p className="pt-[20px] text-gray-500 text-[30px] italic pb-[30px]">
-                    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Join us as we continue to brew the perfect cup, one barrel at a time.    
+                    &nbsp; &nbsp; &nbsp;Join us as we continue to brew the perfect cup, one barrel at a time.    
                     </p>                   
                 </div>
             </div>
