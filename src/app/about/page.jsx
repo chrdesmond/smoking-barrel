@@ -23,7 +23,7 @@ export default function About(){
     
     return(
         <>
-            <div className="bg-[url('https://lh3.googleusercontent.com/p/AF1QipPiWJeZ7PMJkBKxB3BoEZjJAv1f62HYnYoN7ae-=s1360-w1360-h1020')] w-full h-[370px] bg-no-repeat bg-center bg-cover lg:bg-fixed flex items-center justify-center">
+            <div className="bg-[url('https://lh3.googleusercontent.com/p/AF1QipPiWJeZ7PMJkBKxB3BoEZjJAv1f62HYnYoN7ae-=s1360-w1360-h1020')] w-full h-[370px] bg-no-repeat bg-center bg-cover flex items-center justify-center">
                 <div className="flex flex-row gap-4 p-10 lg:p-40 justify-center">
                     <h3 className="text-white font-bold text-4xl">
                         ABOUT US

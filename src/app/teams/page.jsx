@@ -22,7 +22,7 @@ export default function Teams() {
 
     return (
         <>
-            <div className="bg-[url('https://www.gordi.id/cdn/shop/articles/img_flavorperception_2048x.jpg?v=15537443540')] w-full h-[370px] bg-no-repeat bg-center bg-cover lg:bg-fixed">
+            <div className="bg-[url('https://www.gordi.id/cdn/shop/articles/img_flavorperception_2048x.jpg?v=15537443540')] w-full h-[370px] bg-no-repeat bg-center bg-cover">
                 <div className="flex flex-row gap-4 p-10 lg:p-40 justify-center">
                     <h3 className="text-white font-bold text-4xl">
                         TEAM
