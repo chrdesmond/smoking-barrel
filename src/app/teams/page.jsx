@@ -33,7 +33,7 @@ export default function Teams() {
             <section className="bg-gray-200 w-full h-[80px] text-3xl font-bold flex items-center justify-center">
                 MEET OUR TEAM
             </section>
-            <div className="bg-gray-200 text-yellow-800 text-[20px] font-bold w-full sm:px-20 md:px-40 lg:px-[300px] py-10 text-center">
+            <div className="bg-gray-200 text-yellow-800 text-[15px] font-bold w-full px-5 md:px-10 md:text-[15px] lg:px-[300px] lg:text-[20px] py-10 text-center">
                 <p>
                     Welcome to Smoking Barrel! Our team is a passionate group of coffee enthusiasts dedicated to delivering the best coffee experience possible. Each member brings their unique expertise and enthusiasm, ensuring every cup is crafted with care and precision. Get to know the faces behind your favorite brews!
                 </p>
