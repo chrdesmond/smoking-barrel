@@ -29,7 +29,6 @@ export default function HomePage(){
                     width={1695}
                     height={1000}
                     alt="banner"
-                    objectFit="cover"
                 />
             </section>
 

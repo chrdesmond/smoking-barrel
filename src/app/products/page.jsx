@@ -5,7 +5,7 @@ export default function Product() {
   return (
     <>
       {/* Bagian Header Produk */}
-      <div className="bg-[url('https://www.smokingbarrels.coffee/storage/2018/11/15/15422641894691.JPG')] w-full h-[370px] bg-no-repeat bg-center bg-cover flex items-center justify-center">
+      <div className="bg-[url('https://www.smokingbarrels.coffee/storage/2018/11/15/15422641894691.JPG')] w-full lg:h-[370px] h-[130px] bg-no-repeat bg-center bg-cover flex items-center justify-center">
         <h3 className="text-white font-bold text-4xl">PRODUCTS</h3>
       </div>
 
@@ -47,7 +47,7 @@ export default function Product() {
           {/* Bagian Sortir Produk */}
           <div className="flex flex-col lg:flex-row items-center justify-between py-4">
             <div>Showing 9/41 products</div>
-            <button className="flex items-center px-5 py-2 border-2 border-yellow-700 text-yellow-700 font-bold bg-transparent hover:bg-yellow-700 hover:text-white">
+            <button className="flex items-center px-5 py-2 border-2 border-yellow-700 text-yellow-900 font-bold bg-transparent hover:bg-yellow-700 hover:text-white">
               SORT BY NEWEST
               <MdArrowDropDown className="ml-2" />
             </button>
@@ -194,26 +194,26 @@ export default function Product() {
           {/* Bagian Navigasi Halaman */}
           <div className="flex justify-center items-center py-10">
             <div className="flex gap-2">
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
-                <MdOutlineKeyboardArrowLeft />
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
+                &lt;
               </button>
               <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-white bg-yellow-700 hover:bg-yellow-700 hover:text-white">
                 1
               </button>
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
                 2
               </button>
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
                 3
               </button>
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
                 4
               </button>
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
                 5
               </button>
-              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-700 bg-transparent hover:bg-yellow-700 hover:text-white">
-                <MdKeyboardArrowRight />
+              <button className="w-10 h-10 flex items-center justify-center border-2 border-yellow-700 text-yellow-900 bg-transparent hover:bg-yellow-700 hover:text-white">
+                &gt;
               </button>
             </div>
           </div>
