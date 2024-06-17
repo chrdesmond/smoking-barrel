@@ -35,7 +35,7 @@ export default function About(){
                 <div className="bg-gray-200 text-2xl font-bold w-full h-[90px] flex justify-center items-center">
                     WHAT WE DO
                 </div>
-                <div className="bg-gray-200 text-yellow-800 text-justify text-lg sm:text-xl lg:text-2xl font-bold w-full py-10 px-5 sm:px-20 md:px-40 lg:px-[300px] gap-5 flex flex-col justify-center items-center">
+                <div className="bg-gray-200 text-yellow-800 text-justify text-[16px] sm:text-[20px] lg:text-[20px] font-bold w-full py-10 px-5 md:px-[20px] lg:px-[300px] gap-5 flex flex-col justify-center items-center">
                     <p>
                     &nbsp; &nbsp; &nbsp; &nbsp;Welcome to Smoking Barrels Craft Coffee, where passion meets craftsmanship. Established in 2015, Smoking Barrels started as a cozy coffee shop in the heart of our city, founded by a group of friends united by their love for exceptional coffee. From the very beginning, our mission was clear: to bring the finest coffee experience to our community.
                     </p>
