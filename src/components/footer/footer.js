@@ -11,7 +11,7 @@ export default function Footer() {
                     alt="logo"
                 />
             </div>
-            <div className="flex flex-col gap-4 w-full w-auto mb-6 sm:mb-0 lg:mr-16">
+            <div className="flex flex-col gap-4 w-full sm:w-auto mb-6 sm:mb-0 lg:mr-16">
                 <a href="http://localhost:3000/homepage" className="hover:text-amber-500 cursor-pointer">
                     HOME
                 </a>
@@ -25,7 +25,7 @@ export default function Footer() {
                     TEAM
                 </a>
             </div>
-            <div className="flex flex-col gap-4 w-full w-auto mb-6 sm:mb-0 lg:mr-16">
+            <div className="flex flex-col gap-4 w-full sm:w-auto mb-6 sm:mb-0 lg:mr-16">
                 <div className="hover:text-amber-500 cursor-pointer">
                     NEWSLETTER
                 </div>
@@ -33,7 +33,7 @@ export default function Footer() {
                     CONTACT
                 </div>
             </div>
-            <div className="flex flex-col gap-4 w-full w-auto lg:w-1/3">
+            <div className="flex flex-col gap-4 w-full sm:w-auto lg:w-1/3">
                 <div className="text-amber-500 text-xl font-bold">
                     PT. BASUKI LIMA SELARAS
                 </div>
