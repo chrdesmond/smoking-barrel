@@ -4,7 +4,7 @@ import { MdArrowDropDown, MdOutlineKeyboardArrowLeft, MdKeyboardArrowRight } fro
 export default function Product() {
   return (
     <>
-      <div className="bg-[url('https://www.smokingbarrels.coffee/storage/2018/11/15/15422641894691.JPG')] w-full lg:h-[370px] h-[130px] bg-no-repeat bg-center bg-cover">
+      <div className="lg:bg-[url('https://www.smokingbarrels.coffee/storage/2018/11/15/15422641894691.JPG')] bg-yellow-800 w-full lg:h-[370px] h-[130px] bg-no-repeat bg-center bg-cover">
                 <div className="flex flex-row gap-4 p-10 lg:p-40 justify-center">
                     <h3 className="text-white font-bold text-4xl">
                         PRODUCTS
