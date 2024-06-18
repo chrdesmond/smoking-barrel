@@ -2,6 +2,7 @@ import Image from "next/image";
 import { IoSearchSharp } from "react-icons/io5";
 import { MdArrowDropDown } from "react-icons/md";
 import { RxHamburgerMenu } from "react-icons/rx"; // Import ikon hamburger dari React Icons
+import Link from "next/link";
 
 export default function NavBar() {
     return (
@@ -20,16 +21,16 @@ export default function NavBar() {
             </div>
 
             <div className="hidden lg:flex space-x-6 text-white flex-row justify-center items-center">
-                <a href="https://smoking-barrel-3hnc.vercel.app/homepage" className="hover:text-amber-500 cursor-pointer">HOME</a>
+                <Link href="/homepage" className="hover:text-amber-500 cursor-pointer">HOME</Link>
                 
-                <a href="https://smoking-barrel-3hnc.vercel.app/about" className="hover:text-amber-500 cursor-pointer">ABOUT</a>
+                <Link href="/about" className="hover:text-amber-500 cursor-pointer">ABOUT</Link>
                 
                 <div className="flex items-center">
-                    <a href="https://smoking-barrel-3hnc.vercel.app/products" className="hover:text-amber-500 cursor-pointer">PRODUCTS</a>
+                    <Link href="/products" className="hover:text-amber-500 cursor-pointer">PRODUCTS</Link>
                     <MdArrowDropDown className="ml-1 text-white" />
                 </div>
                 
-                <a href="https://smoking-barrel-3hnc.vercel.app/teams" className="hover:text-amber-500 cursor-pointer">TEAM</a>
+                <Link href="/teams" className="hover:text-amber-500 cursor-pointer">TEAM</Link>
                 
                 <div className="hover:text-amber-500 cursor-pointer">
                     <IoSearchSharp />

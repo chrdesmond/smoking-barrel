@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Footer() {
     return (
@@ -12,18 +13,18 @@ export default function Footer() {
                 />
             </div>
             <div className="flex flex-col gap-4 w-full sm:w-auto mb-6 sm:mb-0 lg:mr-16">
-                <a href="http://localhost:3000/homepage" className="hover:text-amber-500 cursor-pointer">
+                <Link href="/homepage" className="hover:text-amber-500 cursor-pointer">
                     HOME
-                </a>
-                <a href="http://localhost:3000/about" className="hover:text-amber-500 cursor-pointer">
+                </Link>
+                <Link href="/about" className="hover:text-amber-500 cursor-pointer">
                     ABOUT
-                </a>
-                <a href="http://localhost:3000/products" className="hover:text-amber-500 cursor-pointer">
+                </Link>
+                <Link href="/products" className="hover:text-amber-500 cursor-pointer">
                     PRODUCTS
-                </a>
-                <a href="http://localhost:3000/teams" className="hover:text-amber-500 cursor-pointer">
+                </Link>
+                <Link href="/teams" className="hover:text-amber-500 cursor-pointer">
                     TEAM
-                </a>
+                </Link>
             </div>
             <div className="flex flex-col gap-4 w-full sm:w-auto mb-6 sm:mb-0 lg:mr-16">
                 <div className="hover:text-amber-500 cursor-pointer">
