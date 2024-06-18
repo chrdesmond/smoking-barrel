@@ -20,16 +20,16 @@ export default function NavBar() {
             </div>
 
             <div className="hidden lg:flex space-x-6 text-white flex-row justify-center items-center">
-                <a href="http://localhost:3000/homepage" className="hover:text-amber-500 cursor-pointer">HOME</a>
+                <a href="https://smoking-barrel-3hnc.vercel.app/homepage" className="hover:text-amber-500 cursor-pointer">HOME</a>
                 
-                <a href="http://localhost:3000/about" className="hover:text-amber-500 cursor-pointer">ABOUT</a>
+                <a href="https://smoking-barrel-3hnc.vercel.app/about" className="hover:text-amber-500 cursor-pointer">ABOUT</a>
                 
                 <div className="flex items-center">
-                    <a href="http://localhost:3000/products" className="hover:text-amber-500 cursor-pointer">PRODUCTS</a>
+                    <a href="https://smoking-barrel-3hnc.vercel.app/products" className="hover:text-amber-500 cursor-pointer">PRODUCTS</a>
                     <MdArrowDropDown className="ml-1 text-white" />
                 </div>
                 
-                <a href="http://localhost:3000/teams" className="hover:text-amber-500 cursor-pointer">TEAM</a>
+                <a href="https://smoking-barrel-3hnc.vercel.app/teams" className="hover:text-amber-500 cursor-pointer">TEAM</a>
                 
                 <div className="hover:text-amber-500 cursor-pointer">
                     <IoSearchSharp />

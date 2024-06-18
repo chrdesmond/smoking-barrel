@@ -93,7 +93,7 @@ export default function HomePage(){
                         Roasting craftsmanship quality coffee since 2015, Smoking Barrels Craft Coffee aims to promote high quality coffee beans from various origins.
                     </div>
                     <div className="flex justify-center lg:justify-center">
-                        <a href="http://localhost:3000/about" className="btn px-5 py-2 rounded border-2 border-white text-white bg-transparent hover:border-amber-500 hover:text-amber-500">
+                        <a href="https://smoking-barrel-3hnc.vercel.app/about" className="btn px-5 py-2 rounded border-2 border-white text-white bg-transparent hover:border-amber-500 hover:text-amber-500">
                             READ MORE
                         </a>
                     </div>
@@ -133,7 +133,7 @@ export default function HomePage(){
             </div>
 
             <section className="bg-gray-200 w-full h-[80px] text-l font-bold flex items-center justify-center">
-                <a href="http://localhost:3000/teams" className="btn px-5 py-2 rounded border-2 border-gray-500 text-white bg-gray-500 hover:border-amber-500 hover:text-amber-500">
+                <a href="https://smoking-barrel-3hnc.vercel.app/teams" className="btn px-5 py-2 rounded border-2 border-gray-500 text-white bg-gray-500 hover:border-amber-500 hover:text-amber-500">
                     READ MORE
                 </a>
             </section>
@@ -156,7 +156,7 @@ export default function HomePage(){
                         At Smoking Barrel, our culture is rooted in passion, community, and excellence. We believe in the power of great coffee to bring people together, and this belief drives everything we do.
                     </div>
                     <div className="flex justify-center lg:justify-center">
-                        <a href="http://localhost:3000/about" className="btn px-5 py-2 rounded border-2 border-white text-white bg-transparent hover:border-amber-500 hover:text-amber-500">
+                        <a href="https://smoking-barrel-3hnc.vercel.app/about" className="btn px-5 py-2 rounded border-2 border-white text-white bg-transparent hover:border-amber-500 hover:text-amber-500">
                             READ MORE
                         </a>
                     </div>

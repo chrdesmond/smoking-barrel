@@ -119,7 +119,7 @@ export default function About(){
 
             <section className="bg-gray-200 w-full h-[80px] text-lg font-bold flex items-start justify-center">
                 <div>
-                    <a href='http://localhost:3000/teams' className="btn px-5 py-2 rounded border-2 border-gray-500 text-white bg-gray-500 hover:border-amber-500 hover:text-amber-500">
+                    <a href='https://smoking-barrel-3hnc.vercel.app/teams' className="btn px-5 py-2 rounded border-2 border-gray-500 text-white bg-gray-500 hover:border-amber-500 hover:text-amber-500">
                         READ MORE
                     </a>
                 </div>
